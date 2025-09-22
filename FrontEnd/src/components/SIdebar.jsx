@@ -16,7 +16,7 @@ const Sidebar = () => {
       <div className="p-6">
         <div className="flex items-center gap-3 mb-8">
           <div className="w-8 h-8 bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg flex items-center justify-center">
-            <span className="text-white font-bold text-sm">H</span>
+            <span className="text-white font-bold text-sm">D</span>
           </div>
           <div>
             <h2 className="text-lg font-bold text-gray-900 dark:text-white">Dashboard</h2>

@@ -25,9 +25,9 @@ const Navbar = () => {
         {/* Logo */}
         <NavLink to="/" className="flex items-center gap-2 text-xl font-bold text-blue-600 dark:text-blue-400 hover:text-blue-700 dark:hover:text-blue-300 transition-colors duration-200">
           <div className="w-8 h-8 bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg flex items-center justify-center">
-            <span className="text-white font-bold text-sm">H</span>
+            <span className="text-white font-bold text-sm">D</span>
           </div>
-          HackFlash
+          DataFlow
         </NavLink>
 
         {/* Navigation Links */}

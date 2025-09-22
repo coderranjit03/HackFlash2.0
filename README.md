@@ -1,15 +1,15 @@
-# HackFlash 2.0
+# DataFlow 2.0
 
 A comprehensive data modernization platform that bridges legacy systems with modern APIs and data formats.
 
 ## 🚀 Project Overview
 
-HackFlash 2.0 is designed to help organizations modernize their legacy data infrastructure by providing intelligent data format conversion, API generation, and visual analysis tools.
+DataFlow 2.0 is designed to help organizations modernize their legacy data infrastructure by providing intelligent data format conversion, API generation, and visual analysis tools.
 
 ## 📁 Project Structure
 
 ```
-HackFlash/
+DataFlow/
 ├── FrontEnd/          # React-based web application
 │   ├── src/          # Source code
 │   ├── public/       # Static assets
@@ -49,7 +49,7 @@ npm run dev
 
 ## 📝 License
 
-This project is part of the HackFlash data modernization platform.
+This project is part of the DataFlow data modernization platform.
 
 ## 🤝 Contributing
 
@@ -60,6 +60,6 @@ This project is part of the HackFlash data modernization platform.
 
 ---
 
-**HackFlash 2.0** - Modernizing legacy data systems, one conversion at a time. ⚡
+**DataFlow 2.0** - Modernizing legacy data systems, one conversion at a time. ⚡
 
 🚀 **YOLO Mode Activated** - Living on the edge of development! 💪

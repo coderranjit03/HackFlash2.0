@@ -74,7 +74,7 @@ const SignUp = () => {
               Create Account
             </h1>
             <p className="text-gray-600 dark:text-gray-300">
-              Join HackFlash and start your data journey
+              Join DataFlow and start your data journey
             </p>
           </div>
 

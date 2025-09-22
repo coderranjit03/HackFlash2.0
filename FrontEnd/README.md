@@ -1,10 +1,10 @@
-# HackFlash Frontend
+# DataFlow Frontend
 
-A modern React-based web application for data format conversion and legacy system modernization. HackFlash provides an intuitive interface for uploading legacy data files and converting them to modern formats with visual analysis and API generation capabilities.
+A modern React-based web application for data format conversion and legacy system modernization. DataFlow provides an intuitive interface for uploading legacy data files and converting them to modern formats with visual analysis and API generation capabilities.
 
 ## 🚀 Overview
 
-HackFlash is designed to bridge the gap between legacy data systems and modern APIs. It allows users to upload files in various legacy formats (CSV, TXT, Excel, DB2 SQL, AS/400) and convert them to modern formats (JSON, REST API, GraphQL, Modern SQL) with comprehensive visual analysis and compatibility checking.
+DataFlow is designed to bridge the gap between legacy data systems and modern APIs. It allows users to upload files in various legacy formats (CSV, TXT, Excel, DB2 SQL, AS/400) and convert them to modern formats (JSON, REST API, GraphQL, Modern SQL) with comprehensive visual analysis and compatibility checking.
 
 ## ✨ Key Features
 
@@ -261,7 +261,7 @@ The application includes intelligent compatibility checking:
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd HackFlash/FrontEnd
+   cd DataFlow/FrontEnd
    ```
 
 2. **Install dependencies**
@@ -337,7 +337,7 @@ The application includes intelligent compatibility checking:
 
 ## 📝 License
 
-This project is part of the HackFlash data modernization platform. Please refer to the main project documentation for licensing information.
+This project is part of the DataFlow data modernization platform. Please refer to the main project documentation for licensing information.
 
 ## 🤝 Contributing
 
@@ -356,4 +356,4 @@ For support and questions:
 
 ---
 
-**HackFlash Frontend** - Modernizing legacy data systems, one conversion at a time. ⚡
+**DataFlow Frontend** - Modernizing legacy data systems, one conversion at a time. ⚡

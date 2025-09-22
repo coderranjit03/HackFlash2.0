@@ -25,9 +25,9 @@ const Footer = () => {
           <div className="md:col-span-1">
             <div className="flex items-center gap-2 mb-4">
               <div className="w-8 h-8 bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-sm">H</span>
+                <span className="text-white font-bold text-sm">D</span>
               </div>
-              <span className="text-xl font-bold text-gray-900 dark:text-white">HackFlash</span>
+              <span className="text-xl font-bold text-gray-900 dark:text-white">DataFlow</span>
             </div>
             <p className="text-sm text-gray-600 dark:text-gray-400 mb-4">
               A modern data platform to bridge legacy systems with clean APIs and visual insights.
@@ -84,7 +84,7 @@ const Footer = () => {
           <div>
             <h3 className="text-sm font-semibold text-gray-900 dark:text-white mb-4">Stay Updated</h3>
             <p className="text-sm text-gray-600 dark:text-gray-400 mb-4">
-              Get the latest updates and news from HackFlash.
+              Get the latest updates and news from DataFlow.
             </p>
             <div className="flex gap-2">
               <input
@@ -102,7 +102,7 @@ const Footer = () => {
         {/* Bottom */}
         <div className="border-t border-gray-200 dark:border-gray-800 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-sm text-gray-600 dark:text-gray-400">
-            © {currentYear} HackFlash. All rights reserved.
+            © {currentYear} DataFlow. All rights reserved.
           </p>
           <div className="flex gap-6 mt-4 md:mt-0">
             <a href="#" className="text-sm text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-gray-200 transition-colors duration-200">

@@ -43,7 +43,7 @@ const SignIn = () => {
               Welcome Back
             </h1>
             <p className="text-gray-600 dark:text-gray-300">
-              Sign in to your HackFlash account
+              Sign in to your DataFlow account
             </p>
           </div>
 
@@ -123,7 +123,7 @@ const SignIn = () => {
           {/* Demo Credentials */}
           <div className="mt-6 p-4 bg-gray-50 dark:bg-gray-800 rounded-lg">
             <p className="text-xs text-gray-500 dark:text-gray-400 mb-2">Demo Credentials:</p>
-            <p className="text-xs text-gray-600 dark:text-gray-300">Email: demo@hackflash.com</p>
+            <p className="text-xs text-gray-600 dark:text-gray-300">Email: demo@DataFlow.com</p>
             <p className="text-xs text-gray-600 dark:text-gray-300">Password: demo123</p>
           </div>
         </div>
